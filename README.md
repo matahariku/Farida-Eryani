@@ -164,11 +164,10 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ---
 
-### 🛠️ DevOps & SRE 🧑‍💻  
-**Profil Farida Eryani** – DevOps Engineer & Observabilité Enthusiast  
+🛠️ DevOps & SRE 🧑‍💻  
+Profil Farida Eryani – DevOps Engineer & Observabilité Enthusiast  
 ⚙️ Kubernetes | Laravel | Terraform | Observabilité & Cloud
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/febdx/febdx/main/assets/devops-infinity.svg" alt="DevOps Infinity" width="120">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerToys/3f9cf33ec6664333393333166666666666666666/doc/images/power-preview/theme-selector-icon.png" alt="Infinity DevOps" width="130">
 </p>
-
