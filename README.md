@@ -87,7 +87,7 @@ background: (chronologique récent → ancien)
 🦘 NGINX | ⚡ HAProxy | 🚀 Traefik | ⚖️ Keepalived
 
 ### **🔐 Auth**
- 🔐 Keycloak | 🏢 Active Directory | DHCP/DNS
+🔐 Keycloak | 🏢 Active Directory | DHCP / DNS
 
 ### **🌐 RÉSEAUX & OS**
 🔥 Fortinet | 📡 Cisco | 🛡️ pfSense | 🌉 VLAN/VPN/SD-WAN | Load Balancing | MPLS | SSH | Bastion \
@@ -98,7 +98,8 @@ background: (chronologique récent → ancien)
 
 ## 🎯 **Goal**
 
-Ingénieure DevOps CI/CD — Automatisation complète des infrastructures cloud-native
+**Ingénieure DevOps CI/CD**
+Automatisation complète des infrastructures cloud-native \
 Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 
