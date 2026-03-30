@@ -38,8 +38,8 @@ role:     Ingénieure DevOps - CKA Certified (disponible CDI/CDD)
 location: Bordeaux, France 🇫🇷
 
 background: (chronologique récent → ancien)
-  - Ptojet Observabilité - Laravel ( Personnel - 04/2026 )
-  - Projet Observabilité - Python (Freelance - terminé 03/2025)
+  - Projet Observabilité - Laravel ( Personnel | 04/2026 - en cours )
+  - Projet Observabilité - Python (Freelance | 04/2025 - 03/2026)
   - Alternance Consultante DevOps @ E-Santé Bretagne (09/2023-01/2025)
   - Alternance Admin Systèmes & DevOps @ IRIS IT (09/2022-09/2023)
   - Alternance Technicienne Systèmes & Réseaux (08/2020-07/2022)
