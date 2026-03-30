@@ -80,7 +80,7 @@ background: (chronologique récent → ancien)
 
 
 ### **💻 LANGAGES & TOOLS**
-🐚 Bash | 🐍 Python | 🐹 Golang \
+🐚 Bash | 🐍 Python |  💻 PHP / Laravel | 🐹 Golang \
 🌐 HTML/CSS/JS | 🗄️ MongoDB | PostgreSQL | MySQL
 
 ### **🌐 Proxy & HA** 
@@ -106,6 +106,11 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 ---
 
 ## 🔭 **En ce moment**
+
+- Projet Observabilité - Laravel | Golang (Personnel | 04/2026 - en cours) \
+  → Mise en place d’un système d’observabilité avec Laravel pour le frontend/API et Golang pour les services backend (metrics, logs, alerting, etc.).
+
+## **Project Recent**
 
 | 🏗️ Projet              | 📋 Description                                                  | 🔖 Status  |
 |------------------------|------------------------------------------------------------------|-----------|
