@@ -101,27 +101,23 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ---
 
-## 🏅 **Certifications**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes =7&theme=dark" />
-</p>
+## 🏅 **Certification**
+
+<div align="center">
+![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Kubernetes Administrator** ✅ **Obtenue**
+
+**En cours:** Terraform 004 + AWS Solutions Architect Associate
+</div>
 
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matahariku&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariku&layout=compact&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0&langs_count=6" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matahariku&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2563eb&fire=60a5fa&currStreakLabel=60a5fa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matahariku&theme=github-compact&bg_color=0d1117&color=60a5fa&line=2563eb&point=ffffff&hide_border=true" />
-</p>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=matahariku&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariku&layout=compact&theme=dark&hide_border=true" width="42%"/>
+</div>
 ---
 
 ## 📫 **Contact Professionnel**
