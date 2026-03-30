@@ -89,9 +89,23 @@ stockage:
 langages:
   - Bash, Python, Golang
 
+Web: 
+  - HTML, CSS, JavaScript
+
 reseaux:
   - Fortinet, Cisco, pfSense
   - VLAN, VPN, SD-WAN
+
+BDD: 
+  - MongoDB, PostgreSQL, MySQL
+
+Systèmes de Fichiers: 
+  - Samba, NTFS, EXT4, ZFS
+
+OS: 
+  - Debian, Ubuntu, RHEL, AlmaLinux
+  - Windows Server
+
 ```
 
 ---
