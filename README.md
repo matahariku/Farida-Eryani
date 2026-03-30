@@ -128,7 +128,7 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 <div align="center">
 
-**🏢 Régions:** Toulouse ⭐ | Marseille | Paris | Bordeaux | Aix | Toulon  
+**🏢 Régions:** Toulouse | Marseille | Paris | Bordeaux | Aix-en-Provence | Toulon  
 **💼 Statut:** ✅ Immédiat CDI/CDD/Freelance  
 **🔗 Contact:** [✉️ Email](mailto:febdx33000@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/farida-eryani-257480172)
 
