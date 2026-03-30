@@ -65,13 +65,12 @@ background: (chronologique récent → ancien)
 
 
 ### **📈 OBSERVABILITÉ FULL-STACK**
-📊 Grafana | 📈 Prometheus | 🪵 Loki | 🔍 Jaeger | ⏱️ Tempo
+📊 Grafana | 📈 Prometheus | 🪵 Loki | 🔍 Jaeger | ⏱️ Tempo \
 🗄️ ELK | 🔔 Zabbix | 📝 VictoriaMetrics
 
 
 ### **🛡️ SÉCURITÉ & COMPLIANCE**
-🔍 Trivy | 🎼 SonarQube | 🔐 Vault | 🦅 Falco | 🏆 Lynis 90%
-⚓ Harbor
+🔍 Trivy | 🎼 SonarQube | 🔐 Vault | 🦅 Falco | 🏆 Lynis 90% | ⚓ Harbor
 
 ### **🔐 Auth** 
 🔐 Keycloak | 🏢 Active Directory | DHCP/DNS
