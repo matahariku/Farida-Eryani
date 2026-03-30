@@ -109,10 +109,19 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 **Certified Kubernetes Administrator**
 
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats (Mars 2026)**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matahariku&show_icons=true&theme=radical)](https://github.com/matahariku)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matahariku&layout=compact&theme=radical)](https://github.com/matahariku)
+**244 contributions** cette année  
+**Top Repos récents:**
+- [Farida-Eryani](https://github.com/matahariku/Farida-Eryani) **(6 commits)**
+- [project-Amsterdam](https://github.com/matahariku/project-Amsterdam) **Python** **(4 commits)**
+- [dev-tokonani](https://github.com/matahariku/dev-tokonani) **(3 commits)**
+
+**Popular repos:**
+- [mysources](https://github.com/matahariku/mysources) **2★ 1🍴** Python/JS/PHP
+- [ida-print-kiosk](https://github.com/matahariku/ida-print-kiosk) **1★** C++
+
+[![GitHub](https://img.shields.io/badge/GitHub-24%20repos-black?style=for-the-badge&logo=github)](https://github.com/matahariku)
 
 ---
 
@@ -129,3 +138,4 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 **"Kubernetes CKA + Terraform + Ansible + CI/CD + Fortinet + Proxmox HA Expert"**
 </div>i
+
