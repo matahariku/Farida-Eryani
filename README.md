@@ -4,56 +4,90 @@
 
 <br/>
 
-## 🧑‍💻 **À propos** 
-<span style="color: #1f6feb">```</span>
-name:     <span style="color: #e36109">Farida ERYANI</span>
-role:     <span style="color: #28a745">Ingénieure DevOps - CKA Certified</span> (disponible CDI/CDD)
-location: <span style="color: #17a2b8">Bordeaux, France 🇫🇷</span>
+## 🧑‍💻 **À propos**
+
+name: Farida ERYANI
+role: Ingénieure DevOps - CKA Certified (disponible CDI/CDD)
+location: Bordeaux, France 🇫🇷
 
 background: (chronologique récent → ancien)
-<span style="color: #1f6feb">```</span>
-  🟢 <span style="color: #28a745">Projet Observability (Freelance - terminé 04/2025)</span>
-  🔵 <span style="color: #007bff">Alternance Consultante DevOps @ E-Santé Bretagne (09/2023-01/2025)</span>
-  🟠 <span style="color: #fd7e14">Alternance Admin Systèmes & DevOps @ IRIS IT (09/2022-09/2023)</span>
-  🔴 <span style="color: #dc3545">Alternance Technicienne Systèmes & Réseaux (08/2020-07/2022)</span>
+- Projet Observability (Freelance - terminé 04/2025)
+- Alternance Consultante DevOps @ E-Santé Bretagne (09/2023-01/2025)
+- Alternance Admin Systèmes & DevOps @ IRIS IT (09/2022-09/2023)
+- Alternance Technicienne Systèmes & Réseaux (08/2020-07/2022)
 
 ---
 
-## 🛠️ **Stack technique** <span style="color: #6f42c1">⚡</span>
+## 🛠️ **Stack technique**
 
-| **Catégorie** | **Technos** |
-|---------------|-------------|
-| <span style="color: #0d6efd">🐳 Conteneurisation</span> | Docker • Kubernetes <span style="color: #326ce5">**CKA**</span> • Ceph-Rook |
-| <span style="color: #7b42f4">🔧 IaC</span> | <span style="color: #f18f01">**Terraform**</span> • Ansible • ArgoCD |
-| <span style="color: #28a745">⚙️ CI/CD</span> | GitHub Actions • Jenkins • GitLab CI |
-| <span style="color: #17a2b8">☁️ Cloud</span> | AWS • Azure • OVH • Proxmox |
-| <span style="color: #fd7e14">📊 Observabilité</span> | <span style="color: #ffc107">**Grafana**</span> • Prometheus • Loki |
-| <span style="color: #dc3545">🛡️ Sécurité</span> | Trivy • Vault • <span style="color: #e83e8c">**Lynis 90%**</span> |
+conteneurisation:
+- Docker
+- Kubernetes (CKA)
+- Ceph-Rook, GlusterFS
+
+iac:
+- Terraform
+- Ansible
+- ArgoCD, Cloud-Init
+
+cicd:
+- GitHub Actions
+- Jenkins
+- GitLab CI
+- Gitea
+
+cloud_virtualisation:
+- AWS, Azure, OVH
+- Proxmox, KVM
+- VMware, Multipass
+
+observabilite:
+- Grafana, Prometheus
+- Loki, Jaeger, Tempo
+- ELK Stack, Zabbix
+- VictoriaLogs, VictoriaMetrics
+
+securite:
+- Trivy, SonarQube
+- Vault, Falco
+- Lynis (Score 90%)
+- Harbor
+
+stockage:
+- Ceph-Rook, GlusterFS
+- Velero, AWS S3
+
+langages:
+- Bash, Python, Golang
+
+reseaux:
+- Fortinet, Cisco, pfSense
+- VLAN, VPN, SD-WAN
+
 
 ---
 
-## 🎯 **Objectif professionnel** <span style="color: #198754">🚀</span>
+## 🎯 **Objectif professionnel**
 
-<span style="color: #0d6efd">Ingénieure DevOps CDI/CDD</span> — Automatisation complète des infrastructures cloud-native
-<span style="color: #28a745">Kubernetes HA clusters</span> + <span style="color: #fd7e14">Observabilité full-stack</span> + <span style="color: #6f42c1">IaC sécurisée</span>
+Ingénieure DevOps CDI/CDD — Automatisation complète des infrastructures cloud-native
+Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 
 ---
 
 ## 🔭 **En ce moment**
+🏗️ Projet 📋 Description 🔖 Status
+project-Amsterdam Restaurant POS system (Python + Excel + 2 printers) 🟢 actif
+K8s-Observability Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki) 🟡 dev
+AWS-Terraform-Mod Modules Terraform réutilisables AWS 🔴 plan
 
-| 🏗️ Projet | 📋 Description | 🔖 Status |
-|-----------|----------------|-----------|
-| <span style="color: #28a745">`project-Amsterdam`</span> | Restaurant POS system (Python + Excel + 2 printers) | 🟢 <span style="color: #198754">actif</span> |
-| <span style="color: #007bff">`K8s-Observability`</span> | Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki) | 🟡 <span style="color: #ffc107">dev</span> |
-| <span style="color: #fd7e14">`AWS-Terraform-Mod`</span> | Modules Terraform réutilisables AWS | 🔴 <span style="color: #dc3545">plan</span> |
 
 ---
 
 ## 🏅 **Certifications**
 
-✅ <span style="color: #28a745">Certified Kubernetes Administrator (CKA)</span>
-🔗 https://www.credly.com/badges/bd619a68-ce90-4a48-978c-e3bcefa0858c
+✅ Certified Kubernetes Administrator (CKA)
+�� https://www.credly.com/badges/bd619a68-ce90-4a48-978c-e3bcefa0858c
 
 
 ---
@@ -73,16 +107,18 @@ background: (chronologique récent → ancien)
 
 ---
 
-## 📫 **Contact** <span style="color: #6f42c1">💬</span>
+## 📫 **Contact**
 
 Disponible CDI/CDD pour missions DevOps en région :
-<span style="color: #17a2b8">Toulouse, Marseille, Aix, Toulon, Paris, Bordeaux</span>
+Toulouse, Marseille, Aix, Toulon, Paris, Bordeaux
 
-<span style="color: #dc3545">📧</span> febdx33000@gmail.com
-<span style="color: #28a745">📱</span> 06 41 21 43 23
-<span style="color: #007bff">🔗</span> LinkedIn: https://www.linkedin.com/in/farida-eryani-257480172/
+📧 febdx33000@gmail.com
+📱 06 41 21 43 23
+🔗 LinkedIn: https://www.linkedin.com/in/farida-eryani-257480172/
 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matahariku&style=flat-square&color=blue" alt="Profile Views" />
 </div>
+
+
