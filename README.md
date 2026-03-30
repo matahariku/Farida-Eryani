@@ -72,15 +72,15 @@ reseaux:
 Ingénieure DevOps CDI/CDD — Automatisation complète des infrastructures cloud-native
 Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
-
 ---
 
 ## 🔭 **En ce moment**
-🏗️ Projet 📋 Description 🔖 Status
-project-Amsterdam Restaurant POS system (Python + Excel + 2 printers) 🟢 actif
-K8s-Observability Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki) 🟡 dev
-AWS-Terraform-Mod Modules Terraform réutilisables AWS 🔴 plan
 
+| 🏗️ Projet | 📋 Description | 🔖 Status |
+|-----------|----------------|-----------|
+| <span style="color: #28a745">`project-Amsterdam`</span> | Restaurant POS system (Python + Excel + 2 printers) | 🟢 <span style="color: #198754">actif</span> |
+| <span style="color: #007bff">`K8s-Observability`</span> | Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki) | 🟡 <span style="color: #ffc107">dev</span> |
+| <span style="color: #fd7e14">`AWS-Terraform-Mod`</span> | Modules Terraform réutilisables AWS | 🔴 <span style="color: #dc3545">plan</span> |
 
 ---
 
