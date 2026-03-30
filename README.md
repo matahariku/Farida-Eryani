@@ -103,7 +103,7 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ## 🏅 **Certifications**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes =7&theme=dark" />
 </p>
 
 ---
@@ -130,20 +130,5 @@ Disponible CDI/CDD pour missions DevOps en région :
 Toulouse, Marseille, Aix, Toulon, Paris, Bordeaux
 
 📧 febdx33000@gmail.com
-📱 06 41 21 43 23
 🔗 LinkedIn: https://www.linkedin.com/in/farida-eryani-257480172/
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a1f3c,100:0d1117&height=120&section=footer&animation=fadeIn" />
-</p>
-
-<!-- STREAK STATS ala Samir -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matahariku&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2563eb&fire=60a5fa&currStreakLabel=60a5fa" />
-</p>
-
-<!-- WAVING CAPSULE FOOTER ala Samir -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a1f3c,100:0d1117&height=120&section=footer&animation=fadeIn" />
-</p>
