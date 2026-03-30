@@ -103,21 +103,17 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ## 🏅 **Certification**
 
-<div align="center">
 ![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white)
 **Kubernetes Administrator** ✅ **Obtenue**
 
 **En cours:** Terraform 004 + AWS Solutions Architect Associate
-</div>
 
----
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=matahariku&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariku&layout=compact&theme=dark&hide_border=true" width="42%"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matahariku&show_icons=true&theme=radical)](https://github.com/matahariku)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matahariku&layout=compact&theme=radical)](https://github.com/matahariku)
+
 ---
 
 ## 📫 **Contact Professionnel**
@@ -131,5 +127,5 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farida-eryani-257480172/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febdx33000@gmail.com)
 
-**"Kubernetes CKA + Terraform + Ansible + CI/CD + Proxmox HA Expert"**
+**"Kubernetes CKA + Terraform + Ansible + CI/CD + Fortinet + Proxmox HA Expert"**
 </div>i
