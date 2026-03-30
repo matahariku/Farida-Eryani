@@ -129,23 +129,7 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 [![GitHub](https://img.shields.io/badge/GitHub-24%20repos-black?style=for-the-badge&logo=github)](https://github.com/matahariku)
 
-
-<div align="center">
-<svg width="100%" height="200" viewBox="0 0 1200 420">
-<!-- SIMPEL VERSION - Hapus semua style kompleks -->
-<rect x="0" y="0" width="100%" height="100%" fill="#0d1117" rx="10"/>
-<text x="50%" y="20%" text-anchor="middle" fill="#FFD700" font-size="24" font-weight="bold">Farida ERYANI</text>
-<text x="50%" y="35%" text-anchor="middle" fill="#FDB813" font-size="16">Contribution Graph</text>
-<!-- Wave sederhana pulse -->
-<path d="M50 100 Q150 80 250 120 T450 90 T650 110 T850 85 T1050 105 L1050 150 L50 150 Z" 
-      fill="#2563eb" opacity="0.6">
-  <animate attributeName="d" values="M50 100 Q150 80 250 120 T450 90 T650 110 T850 85 T1050 105 L1050 150 L50 150 Z;
-                                     M50 90 Q150 70 250 110 T450 80 T650 100 T850 75 T1050 95 L1050 140 L50 140 Z;
-                                     M50 100 Q150 80 250 120 T450 90 T650 110 T850 85 T1050 105 L1050 150 L50 150 Z" 
-        dur="3s" repeatCount="indefinite"/>
-</path>
-</svg>
-</div>
+**👉 [Graph natif GitHub →](https://github.com/matahariku?tab=overview&from=2026-03-01)**
 
 ---
 
