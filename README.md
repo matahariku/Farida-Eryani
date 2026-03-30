@@ -87,7 +87,7 @@ background: (chronologique récent → ancien)
 🦘 NGINX | ⚡HAProxy | 🚀 Traefik | ⚖️  Keepalived
 
 ### **🔐 Auth**
-🔐 Keycloak | 🏢 Active Directory | DHCP /gDNS
+🔐 Keycloak | 🏢 Active Directory | DHCP / DNS
 
 ### **🌐 RÉSEAUX & OS**
 🔥 Fortinet | 📡 Cisco | 🛡️ pfSense | 🌉 VLAN/VPN/SD-WAN | Load Balancing | MPLS | SSH | Bastion \
