@@ -1,8 +1,13 @@
 <div align="center">
   
-<img src="https://img.shields.io/badge/FARIDA%20ERYANI-FDB813?style=for-the-badge&logo=kubernetes&logoColor=black&labelColor=0d1117" width="100%"/>
+<!-- BARIS 1: KUNING TUA (paling gelap) -->
+<img src="https://img.shields.io/badge/FARIDA%20ERYANI-b8860b?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" width="100%"/>
+
+<!-- BARIS 2: KUNING SEDANG -->
 <img src="https://img.shields.io/badge/ING%C3%89NIEURE%20DEVOPS-CKA%20CERTIFIED-FDB813?style=for-the-badge&logo=kubernetes&logoColor=black&labelColor=181717" width="100%"/>
-<img src="https://img.shields.io/badge/AUTOMATISATION-INFRASTRUCTURE-FDB813?style=for-the-badge&logo=terraform&logoColor=black&labelColor=0d1117" width="100%"/>
+
+<!-- BARIS 3: KUNING CERAH (paling terang) -->
+<img src="https://img.shields.io/badge/AUTOMATISATION-INFRASTRUCTURE-FFEA00?style=for-the-badge&logo=terraform&logoColor=black&labelColor=0d1117" width="100%"/>
 
 </div>
 
