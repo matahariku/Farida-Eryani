@@ -90,8 +90,8 @@ background: (chronologique récent → ancien)
  🔐 Keycloak | 🏢 Active Directory | DHCP/DNS
 
 ### **🌐 RÉSEAUX & OS**
-`🔥 Fortinet` | `📡 Cisco` | `🛡️ pfSense` | `🌉 VLAN/VPN/SD-WAN` | `Load Balancing` | `MPLS` | `SSH` | `Bastion` \
-`💻 Debian` | èUbuntu` | `RHEL` | `AlmaLinux` | `Windows Servers`
+🔥 Fortinet | 📡 Cisco | 🛡️ pfSense | 🌉 VLAN/VPN/SD-WAN | Load Balancing | MPLS | SSH | Bastion \
+💻 Debian | Ubuntu | RHEL | AlmaLinux | Windows Servers
  
 
 ---
