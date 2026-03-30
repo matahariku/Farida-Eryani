@@ -45,68 +45,55 @@ background: (chronologique récent → ancien)
 ```
 
 ---
+## 🛠️ **Stack Technique**
 
-## 🛠️ **Stack technique**
+### **🧠 CONTAINER & ORCHESTRATION**
 
-```yaml
-conteneurisation:
-  - Docker
-  - Kubernetes (CKA)
-  - Ceph-Rook, GlusterFS
+🐳 Docker | ☸️ Kubernetes CKA | 🐙 Ceph-Rook | GlusterFS
 
-iac:
-  - Terraform
-  - Ansible
-  - ArgoCD, Cloud-Init
 
-cicd:
-  - GitHub Actions
-  - Jenkins
-  - GitLab CI
-  - Gitea
+### **🔧 IaC & AUTOMATISATION**
 
-cloud_virtualisation:
-  - AWS, Azure, OVH
-  - Proxmox, KVM
-  - VMware, Multipass
+📦 Terraform | ⚙️ Ansible | 🎯 ArgoCD | ☁️ Cloud-Init
 
-observabilite:
-  - Grafana, Prometheus
-  - Loki, Jaeger, Tempo
-  - ELK Stack, Zabbix
-  - VictoriaLogs, VictoriaMetrics
 
-securite:
-  - Trivy, SonarQube
-  - Vault, Falco
-  - Lynis (Score 90%)
-  - Harbor
+### **⚡ CI/CD & DEVOPS**
 
-stockage:
-  - Ceph-Rook, GlusterFS
-  - Velero, AWS S3
+🚀 GitHub Actions | 🔄 Jenkins | 📊 GitLab CI | 🐛 Gitea
 
-langages:
-  - Bash, Python, Golang
 
-Web: 
-  - HTML, CSS, JavaScript
+### **☁️ CLOUD & VIRTUALISATION**
 
-reseaux:
-  - Fortinet, Cisco, pfSense
-  - VLAN, VPN, SD-WAN
+🌐 AWS | Azure | OVH | 🦘 Proxmox HA | 🌀 VMware | KVM
 
-BDD: 
-  - MongoDB, PostgreSQL, MySQL
 
-Systèmes de Fichiers: 
-  - Samba, NTFS, EXT4, ZFS
+### **📈 OBSERVABILITÉ FULL-STACK**
 
-OS: 
-  - Debian, Ubuntu, RHEL, AlmaLinux
-  - Windows Server
+📊 Grafana | 📈 Prometheus | 🪵 Loki | 🔍 Jaeger | ⏱️ Tempo
+🗄️ ELK | 🔔 Zabbix | 📝 VictoriaMetrics
 
-```
+
+### **🛡️ SÉCURITÉ & COMPLIANCE**
+
+🔍 Trivy | 🎼 SonarQube | 🔐 Vault | 🦅 Falco | 🏆 Lynis 90%
+⚓ Harbor
+
+
+### **💾 STOCKAGE & BACKUP**
+
+🐙 Ceph-Rook | 📦 Velero | ☁️ AWS S3 | GlusterFS
+
+
+### **💻 LANGAGES & TOOLS**
+
+🐚 Bash | 🐍 Python | 🐹 Golang
+🌐 HTML/CSS/JS | 🗄️ MongoDB/PostgreSQL/MySQL
+
+
+### **🌐 RÉSEAUX & OS**
+
+🔥 Fortinet | 📡 Cisco | 🛡️ pfSense
+🌉 VLAN/VPN/SD-WAN | 💻 Debian/Ubuntu/RHEL/Windows Servers
 
 ---
 
