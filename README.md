@@ -103,7 +103,7 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ## 🏅 **Certification**
 
-[![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/bd619a68-ce90-4a48-978c-e3bcefa0858c/linked_in?t=ta79da)
+[![CKA Kubernetes Administrator](https://img.shields.io/badge/CKA-Kubernetes_Administrator-blue?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/bd619a68-ce90-4a48-978c-e3bcefa0858c/linked_in?t=ta79da)
 
 **✅ CKA Obtenue**  
 **Certified Kubernetes Administrator**
