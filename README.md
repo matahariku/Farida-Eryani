@@ -38,7 +38,7 @@ role:     Ingénieure DevOps - CKA Certified (disponible CDI/CDD)
 location: Bordeaux, France 🇫🇷
 
 background: (chronologique récent → ancien)
-  - Projet Observabilité - Laravel ( Personnel | 04/2026 - en cours )
+  - Projet Observabilité - Laravel | Golang ( Personnel | 04/2026 - en cours )
   - Projet Observabilité - Python (Freelance | 04/2025 - 03/2026)
   - Alternance Consultante DevOps @ E-Santé Bretagne (09/2023-01/2025)
   - Alternance Admin Systèmes & DevOps @ IRIS IT (09/2022-09/2023)
@@ -107,8 +107,12 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ## 🔭 **En ce moment**
 
-- Projet Observabilité - Laravel | Golang (Personnel | 04/2026 - en cours) \
-  → Mise en place d’un système d’observabilité avec Laravel pour le frontend/API et Golang pour les services backend (metrics, logs, alerting, etc.).
+
+| 🏗️ Projet              | 📋 Description                                                                                                                               | 🔖 Statut  |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Projet Observabilité - Laravel \| Golang | Projet personnel – Mise en place d’un système d’observabilité avec Laravel pour le frontend/API et Golang pour les services backend (metrics, logs, alerting, etc.). | 🟢 actif  |
+
+
 
 ## **Project Recent**
 
@@ -117,7 +121,6 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 | project-Amsterdam      | Restaurant POS system (Python + Excel + 2 printers)            | 🟢 complété |
 | K8s-Observability      | Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki)       | 🟡 dev    |
 | AWS-Terraform-Mod      | Modules Terraform réutilisables AWS                              | 🔴 plan   |
-| Laravel-App-Personnelle| Projet personnel – Application web avec Laravel + PHP + MySQL + HTML/CSS + JS | 🟢 actif |
 
 ---
 
