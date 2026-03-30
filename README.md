@@ -38,7 +38,7 @@ role:     Ingénieure DevOps - CKA Certified (disponible CDI/CDD)
 location: Bordeaux, France 🇫🇷
 
 background: (chronologique récent → ancien)
-  - Projet Observability (Freelance - terminé 04/2025)
+  - Projet Observabilité (Freelance - terminé 04/2025)
   - Alternance Consultante DevOps @ E-Santé Bretagne (09/2023-01/2025)
   - Alternance Admin Systèmes & DevOps @ IRIS IT (09/2022-09/2023)
   - Alternance Technicienne Systèmes & Réseaux (08/2020-07/2022)
@@ -48,50 +48,41 @@ background: (chronologique récent → ancien)
 ## 🛠️ **Stack Technique**
 
 ### **🧠 CONTAINER & ORCHESTRATION**
-
 🐳 Docker | ☸️ Kubernetes CKA | 🐙 Ceph-Rook | GlusterFS
 
 
 ### **🔧 IaC & AUTOMATISATION**
-
 📦 Terraform | ⚙️ Ansible | 🎯 ArgoCD | ☁️ Cloud-Init
 
 
 ### **⚡ CI/CD & DEVOPS**
-
 🚀 GitHub Actions | 🔄 Jenkins | 📊 GitLab CI | 🐛 Gitea
 
 
 ### **☁️ CLOUD & VIRTUALISATION**
-
 🌐 AWS | Azure | OVH | 🦘 Proxmox HA | 🌀 VMware | KVM
 
 
 ### **📈 OBSERVABILITÉ FULL-STACK**
-
 📊 Grafana | 📈 Prometheus | 🪵 Loki | 🔍 Jaeger | ⏱️ Tempo
 🗄️ ELK | 🔔 Zabbix | 📝 VictoriaMetrics
 
 
 ### **🛡️ SÉCURITÉ & COMPLIANCE**
-
 🔍 Trivy | 🎼 SonarQube | 🔐 Vault | 🦅 Falco | 🏆 Lynis 90%
 ⚓ Harbor
 
 
 ### **💾 STOCKAGE & BACKUP**
-
 🐙 Ceph-Rook | 📦 Velero | ☁️ AWS S3 | GlusterFS
 
 
 ### **💻 LANGAGES & TOOLS**
-
 🐚 Bash | 🐍 Python | 🐹 Golang
 🌐 HTML/CSS/JS | 🗄️ MongoDB/PostgreSQL/MySQL
 
 
 ### **🌐 RÉSEAUX & OS**
-
 🔥 Fortinet | 📡 Cisco | 🛡️ pfSense
 🌉 VLAN/VPN/SD-WAN | 💻 Debian/Ubuntu/RHEL/Windows Servers
 
