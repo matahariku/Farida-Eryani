@@ -108,19 +108,13 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 ## 🔭 **En ce moment**
 
-| 🏗️ Projet | 📋 Description | 🔖 Status |
-|-----------|----------------|-----------|
-| `project-Amsterdam` | Restaurant POS system (Python + Excel + 2 printers) | 🟢 actif |
-| `K8s-Observability` | Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki) | 🟡 dev |
-| `AWS-Terraform-Mod` | Modules Terraform réutilisables AWS | 🔴 plan |
-
-
 | 🏗️ Projet              | 📋 Description                                                  | 🔖 Status  |
 |------------------------|------------------------------------------------------------------|-----------|
-| project-Amsterdam      | Restaurant POS system (Python + Excel + 2 printers)            | 🟢 complété (03/2026) |
+| project-Amsterdam      | Restaurant POS system (Python + Excel + 2 printers)            | 🟢 complété |
 | K8s-Observability      | Stack monitoring avancé (Grafana/Prometheus/Jaeger/Loki)       | 🟡 dev    |
 | AWS-Terraform-Mod      | Modules Terraform réutilisables AWS                              | 🔴 plan   |
 | Laravel-App-Personnelle| Projet personnel – Application web avec Laravel + PHP + MySQL + HTML/CSS + JS | 🟢 actif |
+
 ---
 
 ## 🏅 **Certification**
