@@ -1,7 +1,8 @@
 <div align="center">
   
-<img src="https://img.shields.io/badge/Farida%20ERYANI-DevOps%20CKA-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" width="100%"/>
-<img src="https://img.shields.io/badge/Kubernetes-Terraform-Proxmox-181717?style=for-the-badge&logo=kubernetes&logoColor=white&logoColor=white&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Farida%20ERYANI-DevOps%20CKA-b8860b?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" width="100%"/>
+<img src="https://img.shields.io/badge/Kubernetes-CKA-b8860b?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=181717" width="48%"/>
+<img src="https://img.shields.io/badge/Terraform-Proxmox-b8860b?style=for-the-badge&logo=terraform&logoColor=white&labelColor=181717" width="48%"/>
 
 </div>
 
