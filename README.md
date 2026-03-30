@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- BARIS 1: EMAS MURNi + LOGO PUTIH -->
-<img src="https://img.shields.io/badge/FARIDA%20ERYANI-FFD700?style=for-the-badge&logo=infinity‑style&logoColor=white&labelColor=0d1117" width="100%"/>
+<img src="https://img.shields.io/badge/FARIDA%20ERYANI-FFD700?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" width="100%"/>
 
 <!-- BARIS 2: KUNING SEDANG + LOGO PUTIH -->
 <img src="https://img.shields.io/badge/ING%C3%89NIEURE%20DEVOPS-CKA%20CERTIFIED-FDB813?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=181717" width="100%"/>
