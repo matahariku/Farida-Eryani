@@ -1,15 +1,16 @@
 <div align="center">
   
-<!-- BARIS 1: EMAS MURNi -->
+<!-- BARIS 1: EMAS MURNi + LOGO PUTIH -->
 <img src="https://img.shields.io/badge/FARIDA%20ERYANI-FFD700?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" width="100%"/>
 
-<!-- BARIS 2: INGÉNIEURE DEVOPS - CKA CERTIFIED -->
+<!-- BARIS 2: KUNING SEDANG + LOGO PUTIH -->
 <img src="https://img.shields.io/badge/ING%C3%89NIEURE%20DEVOPS-CKA%20CERTIFIED-FDB813?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=181717" width="100%"/>
 
-<!-- BARIS 3: AUTOMATISATION - INFRASTRUCTURE + 2 LOGO -->
-<img src="https://img.shields.io/badge/AUTOMATISATION-Terraform%20%26%20Ansible-FFEA00?style=for-the-badge&logo=terraform&logoColor=white&logoColor=ansible&logoColor=white&labelColor=0d1117" width="100%"/>
+<!-- BARIS 3: KUNING CERAH + LOGO PUTIH -->
+<img src="https://img.shields.io/badge/AUTOMATISATION-INFRASTRUCTURE-FFEA00?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117" width="100%"/>
 
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=30000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Cloud%7CIaC%7CDevOps%0AIng%C3%A9nieure+DevOps+CKA%0AAWS%7CTerraform%7CKubernetes" alt="Typing SVG" />
