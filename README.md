@@ -6,10 +6,14 @@
 <!-- BARIS 2: KUNING SEDANG -->
 <img src="https://img.shields.io/badge/ING%C3%89NIEURE%20DEVOPS-CKA%20CERTIFIED-FDB813?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=181717" width="100%"/>
 
-<!-- BARIS 3: KUNING CERAH + TERRAFORM & ANSIBLE -->
-<img src="https://img.shields.io/badge/Terraform-Ansible-FFEA00?style=for-the-badge&logo=terraform&logoColor=black&labelColor=0d1117" width="100%"/>
+<!-- BARIS 3A: AUTOMATISATION + TERRAFORM (PUTIH) -->
+<img src="https://img.shields.io/badge/AUTOMATISATION-Terraform-FFEA00?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117" width="49%"/>
+
+<!-- BARIS 3B: INFRASTRUCTURE + ANSIBLE (PUTIH) -->
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-Ansible-FFEA00?style=for-the-badge&logo=ansible&logoColor=white&labelColor=181717" width="49%"/>
 
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=30000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Cloud%7CIaC%7CDevOps%0AIng%C3%A9nieure+DevOps+CKA%0AAWS%7CTerraform%7CKubernetes" alt="Typing SVG" />
