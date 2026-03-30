@@ -160,5 +160,15 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febdx33000@gmail.com)
 
 **"Kubernetes CKA + Terraform + Ansible + CI/CD + Fortinet + Proxmox HA Expert"**
-</div>i
+</div>
+
+---
+
+### 🛠️ DevOps & SRE 🧑‍💻  
+**Profil Farida Eryani** – DevOps Engineer & Observabilité Enthusiast  
+⚙️ Kubernetes | Laravel | Terraform | Observabilité & Cloud
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/febdx/febdx/main/assets/devops-infinity.svg" alt="DevOps Infinity" width="120">
+</p>
 
