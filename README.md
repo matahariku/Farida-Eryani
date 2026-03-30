@@ -52,7 +52,7 @@ background: (chronologique récent → ancien)
 
 
 ### **🔧 IaC & AUTOMATISATION**
-📦 Terraform | ⚙️ Ansible | 🎯 ArgoCD | ☁️ Cloud-Init
+📦 Terraform | ⚙️ Ansible | 🎯 ArgoCD | ⛵ Helm | 🧩 Kustomize | ☁️ Cloud-Init
 
 
 ### **⚡ CI/CD & DEVOPS**
@@ -80,14 +80,14 @@ background: (chronologique récent → ancien)
 
 
 ### **💻 LANGAGES & TOOLS**
-🐚 Bash | 🐍 Python | 🐹 Golang
-🌐 HTML/CSS/JS | 🗄️ MongoDB/PostgreSQL/MySQL
+🐚 Bash | 🐍 Python | 🐹 Golang \
+🌐 HTML/CSS/JS | 🗄️ MongoDB | PostgreSQL | MySQL
 
 ### **🌐 Proxy & HA** 
-🦘 NGINX | ⚡ HAProxy | 🚀 Traefik | ⚖️ Keepalived
+🦘 NGINX | ⚡HAProxy | 🚀 Traefik | ⚖️  Keepalived
 
 ### **🔐 Auth**
-🔐 Keycloak | 🏢 Active Directory | DHCP / DNS
+🔐 Keycloak | 🏢 Active Directory | DHCP /gDNS
 
 ### **🌐 RÉSEAUX & OS**
 🔥 Fortinet | 📡 Cisco | 🛡️ pfSense | 🌉 VLAN/VPN/SD-WAN | Load Balancing | MPLS | SSH | Bastion \
@@ -98,7 +98,7 @@ background: (chronologique récent → ancien)
 
 ## 🎯 **Goal**
 
-**Ingénieure DevOps CI/CD**
+**Ingénieure DevOps CI/CD** \
 Automatisation complète des infrastructures cloud-native \
 Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
