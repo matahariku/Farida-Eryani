@@ -162,12 +162,4 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 **"Kubernetes CKA + Terraform + Ansible + CI/CD + Fortinet + Proxmox HA Expert"**
 </div>
 
----
 
-🛠️ DevOps & SRE 🧑‍💻  
-Profil Farida Eryani – DevOps Engineer & Observabilité Enthusiast  
-⚙️ Kubernetes | Laravel | Terraform | Observabilité & Cloud
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerToys/3f9cf33ec6664333393333166666666666666666/doc/images/power-preview/theme-selector-icon.png" alt="Infinity DevOps" width="130">
-</p>
