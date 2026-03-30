@@ -129,8 +129,6 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 [![GitHub](https://img.shields.io/badge/GitHub-24%20repos-black?style=for-the-badge&logo=github)](https://github.com/matahariku)
 
-**👉 [Graph natif GitHub →](https://github.com/matahariku?tab=overview&from=2026-03-01)**
-
 ---
 
 ## 📫 **Contact Professionnel**
