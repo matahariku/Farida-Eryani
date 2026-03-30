@@ -72,6 +72,8 @@ background: (chronologique récent → ancien)
 🔍 Trivy | 🎼 SonarQube | 🔐 Vault | 🦅 Falco | 🏆 Lynis 90%
 ⚓ Harbor
 
+### **🔐 Auth** 
+🔐 Keycloak | 🏢 Active Directory | DHCP/DNS
 
 ### **💾 STOCKAGE & BACKUP**
 🐙 Ceph-Rook | 📦 Velero | ☁️ AWS S3 | GlusterFS
@@ -81,16 +83,23 @@ background: (chronologique récent → ancien)
 🐚 Bash | 🐍 Python | 🐹 Golang
 🌐 HTML/CSS/JS | 🗄️ MongoDB/PostgreSQL/MySQL
 
+### **🌐 Proxy & HA** 
+🦘 NGINX | ⚡ HAProxy | 🚀 Traefik | ⚖️ Keepalived
+
+### **🔐 Auth**
+ 🔐 Keycloak | 🏢 Active Directory | DHCP/DNS
 
 ### **🌐 RÉSEAUX & OS**
 🔥 Fortinet | 📡 Cisco | 🛡️ pfSense
-🌉 VLAN/VPN/SD-WAN | 💻 Debian/Ubuntu/RHEL/Windows Servers
+🌉 VLAN/VPN/SD-WAN | Load Balancing | MPLS | SSH | Bastion
+💻 Debian | Ubuntu | RHEL |AlmaLinux | Windows Servers
+ 
 
 ---
 
 ## 🎯 **Goal**
 
-Ingénieure DevOps CDI/CDD — Automatisation complète des infrastructures cloud-native
+Ingénieure DevOps CI/CD — Automatisation complète des infrastructures cloud-native
 Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 
