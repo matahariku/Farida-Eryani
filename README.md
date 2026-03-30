@@ -128,13 +128,12 @@ Kubernetes HA clusters + Observabilité full-stack + IaC sécurisée
 
 <div align="center">
 
-| 🏢 **Régions** | 💼 **Statut** | 🔗 **Contact** |
-|---------------|---------------|----------------|
-| **Toulouse** ⭐<br/>**Marseille**<br/>**Paris**<br/>**Bordeaux** | ✅ **Immédiat**<br/>CDI/CDD/Freelance | [✉️ Email](mailto:febdx33000@gmail.com) |
-| **Aix • Toulon** | **DevOps Expert**<br/>Kubernetes CKA | [🔗 LinkedIn](https://linkedin.com/in/farida-eryani-257480172) |
+**🏢 Régions:** Toulouse ⭐ | Marseille | Paris | Bordeaux | Aix | Toulon  
+**💼 Statut:** ✅ Immédiat CDI/CDD/Freelance  
+**🔗 Contact:** [✉️ Email](mailto:febdx33000@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/farida-eryani-257480172)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farida-eryani-257480172/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febdx33000@gmail.com)
 
-**"Kubernetes + Terraform + Ansible + CI/CD + Proxmox Expert"**
-</div>
+**"Kubernetes CKA + Terraform + Ansible + CI/CD + Proxmox HA Expert"**
+</div>i
